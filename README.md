@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @jevgenix
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, JS, CSS, PHP/SQL AND JAVA 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👀 I’m interested in coding and crypto
+# 🌱 I’m currently learning HTML, JS, CSS AND JAVA 
+<!-- # 💞️ I’m looking to collaborate on interesting projects!
+  📫 How to reach me ... -->
 
 <!---
 jevgenix/jevgenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
