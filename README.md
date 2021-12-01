@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jevgenix
+# 👋 Hi, I’m @jevgenix
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, JS, CSS, PHP/SQL AND JAVA 
 - 💞️ I’m looking to collaborate on ...
