@@ -12,6 +12,14 @@
   <img align = "left" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 
+<a href="https://www.instagram.com/jevgenix/">
+  <img align = "left" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+</a>
+
+<a href="discordapp.com/users/Evgenii#8807">
+  <img align = "left" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-discord-social-media-justicon-flat-justicon.png"/>
+</a>
+
 <!-- # 💞️ I’m looking to collaborate on interesting projects!
   📫 How to reach me ... -->
 
