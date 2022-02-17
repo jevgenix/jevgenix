@@ -9,7 +9,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/evgenii-smirnov-7b5b021b7/">
-  <img align = "center" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <img align = "left" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 
 <a href="https://www.instagram.com/jevgenix/">
