@@ -27,9 +27,9 @@
 ## Languages and tools
 
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align = "left" width = "30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
+<img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align = "left" width = "30px" src="https://img.icons8.com/office/16/000000/react.png"/>
+<img align = "left" width = "30px" src="https://img.icons8.com/officel/40/000000/react.png"/>
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align = "left" width = "30px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
