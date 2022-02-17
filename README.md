@@ -20,7 +20,8 @@
   <img align = "left" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-discord-social-media-justicon-flat-justicon.png"/>
 </a>
 <br/>
-### Languages and tools
+
+## Languages and tools
 
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align = "left" width = "30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
