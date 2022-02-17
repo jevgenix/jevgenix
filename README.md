@@ -2,7 +2,7 @@
 
 ### - I’m currently studying BIT at Laurea University of Applied Sciences,
 
-### - and also taking courses at Helsinki University :mortar_board:
+### - and also taking IT-courses at Helsinki University :mortar_board:
 
 ### - I am focused on Full-stack technologies(MERN)/mobile-app development and Data Analysis using Python🌱
 
@@ -20,10 +20,6 @@
   <img align = "left" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-discord-social-media-justicon-flat-justicon.png"/>
 </a>
 
-<!-- # 💞️ I’m looking to collaborate on interesting projects!
-  📫 How to reach me ... -->
+---
 
-<!---
-jevgenix/jevgenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align = "left" alt="jevgenix's stats" src="https://github-readme-stats.vercel.app/api?jevgenix&show_icons=true&hide_border=true" />
