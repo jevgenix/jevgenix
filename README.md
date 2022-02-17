@@ -32,8 +32,12 @@
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
+<br/>
+
 ---
 
 [![Jevgenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevgenix&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevgenix&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
