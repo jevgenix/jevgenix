@@ -22,4 +22,4 @@
 
 ---
 
-<img align = "left" alt="jevgenix's stats" src="https://github-readme-stats.vercel.app/api?jevgenix&show_icons=true&hide_border=true" />
+[![Jevgenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevgenix)](https://github.com/anuraghazra/github-readme-stats)
