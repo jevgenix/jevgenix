@@ -8,7 +8,9 @@
 
 ### Connect with me:
 
-[<img align = "left" alt="Linkedin" with="22px" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>] https://www.linkedin.com/in/evgenii-smirnov-7b5b021b7/
+<a href="https://www.linkedin.com/in/evgenii-smirnov-7b5b021b7/">
+  <img align = "left" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
 
 <!-- # 💞️ I’m looking to collaborate on interesting projects!
   📫 How to reach me ... -->
