@@ -22,6 +22,6 @@
 
 ---
 
-[![Jevgenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevgenix)](https://github.com/anuraghazra/github-readme-stats)
+[![Jevgenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevgenix&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevgenix&layout=compact&bg_color=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevgenix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
