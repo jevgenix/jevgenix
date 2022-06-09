@@ -4,7 +4,7 @@
 
 ### - and also taking IT-courses at Helsinki University :mortar_board:
 
-### - I am focusing on Full-stack technologies(MERN)/mobile-app development and Data Analysis using Python :snake:
+### - I am focusing on Full-stack technologies(MERN)
 
 ### Connect with me:
 
